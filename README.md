@@ -1,6 +1,6 @@
 <img src="assets/header.svg" width="100%" alt="Gabriel Ribeiro — Desenvolvedor Full Stack. Interfaces, aplicações e dados." />
 
-Sou Gabriel Ribeiro, desenvolvedor full stack com foco em aplicações web e interfaces que conectam pessoas, serviços e dados. Curso Técnico em Análise e Desenvolvimento de Sistemas na ETE Porto Digital.
+Sou Gabriel Ribeiro, desenvolvedor full stack com foco em aplicações web e interfaces que conectam pessoas, serviços e dados.
 
 Minha experiência prática reúne desenvolvimento com React, TypeScript e Firebase, além de estudos em Python e Django. Também trabalho com UI/UX e prototipação no Figma.
 
