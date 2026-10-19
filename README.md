@@ -40,6 +40,11 @@ Atuo na definição das funcionalidades, desenvolvimento das interfaces, integra
 
 ## Formação complementar
 
+**CESAR School — Programando o Futuro**  
+Formação em letramento científico e programação full stack · 64 horas.
+
+Conteúdos: lógica de programação com Python, fundamentos de front-end com HTML, CSS e JavaScript, desenvolvimento web com Flask, templates Jinja2, bancos de dados relacionais e APIs RESTful.
+
 **CESAR School — FAST: Aceleração de Carreira em Design Orientado por Dados**  
 Formação concluída em setembro de 2025 · 80 horas.
 
