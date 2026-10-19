@@ -38,6 +38,13 @@ Atuo na definição das funcionalidades, desenvolvimento das interfaces, integra
 **Design e qualidade:** Figma, Git, GitHub e Jest.  
 **Estudos:** Python, Django e fundamentos de programação em C.
 
+## Formação complementar
+
+**CESAR School — FAST: Aceleração de Carreira em Design Orientado por Dados**  
+Formação concluída em setembro de 2025 · 80 horas.
+
+Conteúdos: agilidade, introdução ao design orientado por dados, aplicação de UX Data Driven, data storytelling, visualização e inteligência artificial, desafios éticos e humanização dos dados, projeto final e mentorias de soft skills.
+
 ## Aprendizado em prática
 
 [Exercícios em Python](https://github.com/gabriza007/curso-python-django) · [Fundamentos em C](https://github.com/gabriza007/c50-mesmo)
