@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="250" viewBox="0 0 1200 250" role="img" aria-labelledby="title desc">
+  <title id="title">Gabriel Ribeiro — Desenvolvedor Full Stack</title>
+  <desc id="desc">Banner minimalista em azul escuro, com linhas discretas e tipografia clara.</desc>
+  <rect width="1200" height="250" rx="16" fill="#0d1726"/>
+  <path d="M860 0v250M990 0v250M1120 0v250M820 70h380M820 160h380" stroke="#1b2b40" stroke-width="1"/>
+  <rect x="54" y="49" width="36" height="4" rx="2" fill="#79c7c4"/>
+  <text x="54" y="115" fill="#f3f6fa" font-family="Segoe UI,Arial,sans-serif" font-size="48" font-weight="600">Gabriel Ribeiro</text>
+  <text x="56" y="158" fill="#9fd5d2" font-family="Segoe UI,Arial,sans-serif" font-size="24">Desenvolvedor Full Stack</text>
+  <text x="56" y="203" fill="#a9b6c8" font-family="Segoe UI,Arial,sans-serif" font-size="18">Interfaces, aplicações e dados.</text>
+  <path d="m950 86-35 39 35 39m100-78 35 39-35 39m-40-88-25 98" fill="none" stroke="#79c7c4" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
